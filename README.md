@@ -1,2 +1,5 @@
-# Augmented-Reality-3D
-Augmented Reality 3D
+# AR OpenCV
+Augmented Reality with OpenCV
+
+## Reference
+- https://github.com/juangallostra/augmented-reality
